@@ -22,7 +22,7 @@ Voici quelques-uns des projets que j'ai réalisé :
 | :--- | :--- | :---: |
 | **Mimesis** | Jeu à choix narratifs en 2D où vous infiltrez un musée. | [➔](https://github.com/Goldenblac-k/Mimesis) |
 | **Astrogame** | Jeu d'arcade 2D de survie face à une pluie de météorites sur Mars. | [➔](https://github.com/Goldenblac-k/Astrogame) |
-| **Windows desktop customizer** | Bureau modulable injecté via Lively Wallpaper. | [➔](https://github.com/Goldenblac-k/The-Game-Of-Life) |
+| **Windows desktop customizer** | Bureau modulable injecté via Lively Wallpaper. | [➔](https://github.com/Goldenblac-k/Windows-desktop-customizer) |
 | **E-Portfolio** | Mon portfolio numérique. | [➔](https://goldenblac-k.github.io/E-Portfolio) |
 
 ## Langages et outils
